@@ -2,15 +2,8 @@
 Snowflake DDL and COPY Statements to load the 2023 Lahman Baseball Database .csv files
 
 
-//
-//
-//
-//
-
-
-
-**The Lahman Baseball Database can be downloaded from
-http://seanlahman.com/**
+**The Lahman Baseball Database**
+is available at http://seanlahman.com
 ---
 
 0.1 Copyright Notice & Limited Use License
@@ -26,31 +19,27 @@ For licensing information or further information, contact Sean Lahman at: seanla
 
 
 
-**Additional Repos and websites used for this demo: **
+**Additional Resources used for this demo:**
 ---
 
-```
-Usage: stronghold.py [OPTIONS]
+2024 SABR Analytics: Sean Lahman, "Introduction to Baseball Databases" https://www.youtube.com/watch?v=DyIn1mDxL-A
 
-  Securely configure your Mac.
-  Developed by Aaron Lichtman -> (Github: alichtman)
+https://en.wikipedia.org/wiki/Society_for_American_Baseball_Research
 
+https://cs186.gitbook.io/project/assignments/proj1/your-tasks
 
-Options:
-  -lockdown  Set secure configuration without user interaction.
-  -v         Display version and author information and exit.
-  -help, -h  Show this message and exit.
-```
+https://jbhender.github.io/Stats506/F18/Intro_to_SQL.html
 
-**Installation Options**
----
+https://www.cs.cmu.edu/~christos/courses/826.S07/HW1/hw1.html
 
-1. Install with [`pip`](https://pypi.org/project/stronghold/)
-    + `$ pip install stronghold`
-    + `$ stronghold`
+https://www.billmongan.com/Ursinus-CS377-Fall2021/Assignments/JoinProgramming
 
-2. Download the `stronghold` binary from Releases tab.
+https://www.hcbravo.org/IntroDataSci/classroom-notes/sql_baseball.html
+
+https://daily-adam.com/sql-queries-for-mlb-trivia-using-the-lahman-database/
+
+https://github.com/Riidhima/The-Lahman-Baseball-Database-Optimization
+
+https://gist.github.com/wesrice/f1cc48fa8d18d17bc2de
 
 
-**Configuration Options**
----
